@@ -1,0 +1,3 @@
+**CNN‑Based Early Fire Detection in Static Images**
+Designed and evaluated a convolutional neural network optimized for early fire detection in static images. The framework extracts robust spatial features to identify 
+fire signatures under varied environmental conditions, enabling rapid and reliable fire outbreak alerts for surveillance and safety systems.
