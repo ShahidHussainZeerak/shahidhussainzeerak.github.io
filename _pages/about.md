@@ -29,12 +29,14 @@ Research Interests
 
 My research interests include:
 ----
-Artificial Intelligence: Designing intelligent and data-driven systems for healthcare and biomedical applications.
-Machine Learning & Deep Learning: Developing robust, efficient, and generalizable learning algorithms for complex real-world problems.
-Computer Vision: Visual representation learning, image understanding, object recognition, and advanced computer vision methodologies.
-Image Processing: Image enhancement, denoising, super-resolution, restoration, and feature extraction for medical imaging applications.
-Medical Image Analysis: AI-driven analysis of histopathological, radiological, and multimodal medical images for computer-aided diagnosis.
-Multimodal Learning: Integrating heterogeneous imaging and clinical data to improve diagnostic accuracy, robustness, and clinical decision support.
-Explainable Artificial Intelligence (XAI): Developing transparent, interpretable, and trustworthy AI models for reliable clinical deployment.
-Generative Artificial Intelligence: Generative models for medical image synthesis, data augmentation, representation learning, and image restoration.
-3D Medical Image Segmentation: Developing advanced deep learning methods for accurate and efficient segmentation of volumetric medical images.
+## Research Interests & Expertise
+
+-  **Artificial Intelligence (AI):** Healthcare AI, biomedical applications, and intelligent data-driven systems.
+-  **Machine Learning & Deep Learning:** Robust and generalizable learning algorithms for real-world applications.
+-  **Computer Vision:** Visual representation learning, image understanding, and advanced vision models.
+-  **Medical Image Processing:** Image enhancement, denoising, restoration, super-resolution, and feature extraction.
+-  **Medical Image Analysis:** AI-driven analysis of histopathology, radiology, and multimodal medical images for computer-aided diagnosis.
+-  **Multimodal Learning:** Fusion of imaging and clinical data for improved diagnostic accuracy and robustness.
+-  **Explainable AI (XAI):** Interpretable and trustworthy deep learning models for clinical decision support.
+-  **Generative AI:** Medical image synthesis, data augmentation, representation learning, and restoration.
+-  **3D Medical Image Segmentation:** Deep learning approaches for volumetric medical image analysis.
