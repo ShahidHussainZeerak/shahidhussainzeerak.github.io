@@ -1,0 +1,7 @@
+---
+title: "XNET: Skip-Connection CNN for COVID-19 Classification"
+excerpt: "A CNN architecture leveraging skip-connections for efficient COVID-19 classification from X-ray images."
+collection: portfolio
+---
+
+We developed XNET, a CNN architecture leveraging skip-connections for efficient COVID-19 classification from medical imaging data (X-ray). The skip-connection mechanism facilitates gradient flow and feature reuse, achieving high diagnostic accuracy with improved convergence and robust generalization.
