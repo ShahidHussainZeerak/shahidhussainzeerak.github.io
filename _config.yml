@@ -7,9 +7,11 @@
 # server process.
 
 # Basic Site Settings
+l# Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" 
 title                    : "Shahid Hussain"
+logo                     : "" 
 title_separator          : "-"
 name                     : &name "Shahid Hussain"
 description              : &description "Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | Medical AI | Multimodal Learning | Explainable AI | 3D Medical Image Analysis"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +26,7 @@ repository               : "ShahidHussainZeerak/shahidhussainzeerak.github.io"
 author:
 
   # Biographic information
-  avatar            : "profile.png"
+  avatar            :"/images/profile.png"
   name              : "Shahid Hussain"
   bio               : "Artificial Intelligence Researcher specializing in Machine Learning, Deep Learning, Computer Vision, Medical AI, Multimodal Learning, Explainable AI, and 3D Medical Image Analysis."
   location          : "Xi'an, China"
